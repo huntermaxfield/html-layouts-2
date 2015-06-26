@@ -1,0 +1,72 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	background: #D8D8D8;
+}
+
+.one {
+	height: 42%;
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 20px;
+	background: white;
+}
+
+p {
+	padding: 15px 30px;
+	font-size: 17px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	line-height: 2;
+}
+
+.button {
+	width: 20%;
+	height: 25%;
+	background: red;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	color: white;
+	text-align: center;
+	padding: 0px;
+	font-size: 29px;
+	vertical-align: middle;
+
+	/*padding-top: 20px;
+	padding-bottom: 20px;*/
+	line-height: 80px;
+}
+
+.bluebut {
+	background: #4E92DF;
+}
+
+.two {
+	height: 90%;
+	margin-bottom: 60px;
+	margin-top: 40px;
+	padding-top: 40px;
+}
+
+.pic {
+	height: 60%;
+	margin: 0 auto;
+	background: #4A4A4A;
+	width: 80%;
+	padding-top: 20px;
+}
+
+footer {
+	height: 15%;
+	background: #333333;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.compan {
+	color: white;
+	margin-right: 30px;
+}
+
